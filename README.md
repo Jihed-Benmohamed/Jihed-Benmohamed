@@ -30,7 +30,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/jihed-benmohamed-6a6869306/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jihed-Benmohamed&show_icons=true&locale=en" alt="Jihed-Benmohamed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jihed-Benmohamed&" alt="Jihed-Benmohamed" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jihed-Benmohamed&show_icons=true&locale=en&layout=compact" alt="Jihed-Benmohamed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jihed-Benmohamed&show_icons=true&locale=en&cache_seconds=3600" alt="Jihed-Benmohamed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jihed-Benmohamed&cache_seconds=3600" alt="Jihed-Benmohamed" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jihed-Benmohamed&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="Jihed-Benmohamed" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jihed-Benmohamed" alt="Jihed-Benmohamed" /></a></p>
